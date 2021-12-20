@@ -4,6 +4,20 @@
   <meta charset="utf-8">
   <title>IT ENDS NOW!</title>
   </head>
+  <style>
+    body {
+      background-image: url('background.jpg') 
+  }
+  </style>
+  <body>
+   <img src="cs 106 banner.jpg">
+        <table width="100%">
+            <tr>
+                <td> <a href="index.html"><img src="home.png"></a></td>
+                <td> <a href="javascripts.html"><img src="javascripts.png"></a></td>
+                <td> <a href="about.html"><img src="about.png"></a></td>
+            </tr>
+  <h1>The End Is Here, Seriously This Is The Final Project Page!</h1>
   
-  
+  </body>
 </html>
